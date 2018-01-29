@@ -1,0 +1,2 @@
+charpoly(matrix([1,2,3],[0,5,0],[3,0,7]), x), expand;
+charpoly(matrix([1,2,3],[0,5,0],[3,0,7]), x);
