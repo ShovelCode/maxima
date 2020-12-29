@@ -1,0 +1,2 @@
+genmatrix(%,3,3);
+invert(%);
