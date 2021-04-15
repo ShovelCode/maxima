@@ -1,0 +1,2 @@
+tangent(fn, x) :=
+       diff(fn(x), x) / ((diff(fn(x), x) . diff(fn (x), x))^(1/2))$
